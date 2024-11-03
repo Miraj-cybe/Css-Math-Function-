@@ -1,0 +1,12 @@
+
+  /*  #test p{
+        background: red;
+        margin: 0 auto;
+        width:calc(100%-400px);
+    }*/
+    #test p{
+        margin: 0 auto;
+        background-color: brown;
+        width:max(70%,700px);
+        width: min(70%,400px);
+    }
